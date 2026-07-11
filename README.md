@@ -5,6 +5,7 @@
   <a href="mailto:adaikkalapitchai2709@gmail.com"><img src="https://img.shields.io/badge/Email-adaikkalapitchai2709%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Adaikkalapitchai"><img src="https://img.shields.io/badge/GitHub-Adaikkalapitchai-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/normal-badge/?username=Adaikkalapitchai&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -71,6 +72,14 @@ My expertise centers around building distributed, accessible, and configuration-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Adaikkalapitchai&show_icons=true&theme=tokyonight&count_private=true" alt="Adaikkalapitchai's GitHub Stats" height="190" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adaikkalapitchai&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adaikkalapitchai&theme=tokyonight" alt="GitHub Streak" height="190" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adaikkalapitchai&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
