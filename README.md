@@ -15,6 +15,12 @@ I am a **Full-stack Engineer** with **4+ years of experience** architecting high
 
 My expertise centers around building distributed, accessible, and configuration-driven frontend systems using **Angular (v8-v21)** and **RxJS**, combined with secure, scalable backend APIs built on **Node.js/Express.js** and **Java**. I specialize in automating software delivery using **GitHub Actions CI/CD** and establishing inclusive, accessible user interfaces compliant with **WCAG guidelines**.
 
+### ⚙️ My Development Philosophy
+* 🎨 **Configuration-Driven UI**: Forms and views should adapt dynamically at runtime using structured schemas (JSON layouts), reducing boilerplate and feature release cycles.
+* ♿ **Accessibility First**: User interfaces must be inclusive, WCAG 2.1 AA/AAA compliant, and tested rigorously using screen readers (NVDA) for all users.
+* 🛠️ **DevOps & Automation**: Manual workflows are software bugs. If a build, validation, or deployment step is done more than twice, it should be automated via CI/CD.
+* 🧪 **Resilient Code Quality**: Strive for strong component decoupling, granular unit testing coverage using Jest/Vitest, and clean modular codebases.
+
 ---
 
 ## 🛠️ Technical Toolkit
@@ -84,10 +90,37 @@ My expertise centers around building distributed, accessible, and configuration-
 
 ---
 
-## 💼 Core Projects
-* **Fintech UI Library (`FPX Library`)**
-  * Built dynamic form layouts parsed at runtime from config databases to keep styles normalized. Led migration of core libraries to Angular 20.
-* **IRMS Medical Billing Platform**
-  * Formulated a full-stack solution using Angular and Laravel that reduced the healthcare provider claim processing cycle time by **35%**.
-* **Liquor Billing & Inventory System**
-  * Engineered high-volume inventory software utilizing Angular 14 component hooks to reflect stock level changes in real-time.
+## 💼 Highlighted Experience & Projects
+
+### 🌟 Product Engineer | Intellect Design Arena (Sept 2024 - Present)
+* **Project: FPX Library – Fintech UI Framework**
+  * Architected a configuration-driven full-stack framework using Angular and Node.js, reducing features release timelines by **40%**.
+  * Coded runtime financial data entry modules rendering forms dynamically from JSON config schemas.
+  * Supported team-wide migrations to Angular 20.
+  * **Tech Stack**: `Angular (v8-21)`, `Node.js`, `RxJS`, `Tailwind CSS`, `TypeScript`
+
+### 🌟 Software Developer | CaliberFocus (May 2024 - Sept 2024)
+* **Project: IRMS Medical Billing Application**
+  * Formulated a full-stack billing solution using Angular and PHP/Laravel, cutting medical claim reimbursement cycles by **35%**.
+  * Developed real-time invoice generation and secure payment state trackers.
+  * **Tech Stack**: `Angular`, `PHP`, `Laravel`, `MySQL`, `REST APIs`
+
+### 🌟 Software Associate | CRUD Operations (July 2022 - April 2024)
+* **Project: Liquor Billing & Stocks Application**
+  * Built scalable inventory and billing software focusing on modular components to handle real-time inventory and high transactions.
+  * **Tech Stack**: `Angular 14`, `RxJS`, `TypeScript`, `SCSS`, `MySQL`
+
+---
+
+## 📬 Let's Connect!
+
+I am always open to discussing full-stack architecture, Angular scaling patterns, WCAG accessibility validation, or new career opportunities!
+
+* 📧 **Email**: [adaikkalapitchai2709@gmail.com](mailto:adaikkalapitchai2709@gmail.com)
+* 💼 **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN-URL](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+* 🌐 **Portfolio**: [YOUR-PORTFOLIO-WEBSITE-URL](http://YOUR-PORTFOLIO-WEBSITE-URL)
+* 📅 **Open to**: Full-time Software Engineering roles (Chennai, Remote, Global hybrid)
+
+<p align="center">
+  <i>"Writing clean, modular, and accessible code to build inclusive digital products."</i>
+</p>
